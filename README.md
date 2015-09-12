@@ -10,19 +10,16 @@ Build Instructions
 	*
 * To install
 	* ```
-		sh
 	  $ bash <path to the repo>/install.sh
 	  ```
 * To Remove
 	* ```
-		sh
 	  $ bash <path to the repo>/remove.sh
 	  ```
 * Gems Required
 	* ```
-		sh
 		$ gem install mechanize nokogiri open-uri -V 
-	  ```
+	  ```	
 
 Info
 ----

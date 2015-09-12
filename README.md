@@ -7,15 +7,16 @@ Build Instructions
 ------------------
 
 * Clone From github
-	*
 * To install
 	* ```
 	  $ bash <path to the repo>/install.sh
 	  ```
+
 * To Remove
 	* ```
 	  $ bash <path to the repo>/remove.sh
 	  ```
+
 * Gems Required
 	* ```
 		$ gem install mechanize nokogiri open-uri -V 

@@ -17,11 +17,17 @@ To Remove
 ```sh
 $ sh <path to the repo>/remove.sh
 ```
+To Configure(Put the time for which it should get updated)
+```sh
+$ sh <path to the repo>/configure.sh
+```
 Gems Required
 ```sh
 $ gem install mechanize nokogiri open-uri -V 
  ```	
 Info
 ----
-Images are stored at ~/ThePaperWall/Wallpapers
+* Images are stored at ~/ThePaperWall/Wallpapers
+* Tested on Gnome and Unity
+
 
